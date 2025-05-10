@@ -11,7 +11,7 @@ Data Modelling:
 We had to create one calender table for the date on which loan was issued and later we created a relatonshp between the fact table and the date table.
 
 Measures:-
-We have created measures for visualization purpose by using functions like calculate,sum,datestyd,totalytd,avg,divide etc.
+We have created measures for visualization purpose by using functions like calculate,sum,datestyd,filter,totalytd,avg,divide etc.
 
 Data Visualiztion:-
 We have created 3 page report:
